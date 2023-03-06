@@ -12,3 +12,15 @@ To succeed in biological data science, one needs a strong foundation in computer
 In conclusion, biological data science is a rapidly growing field that plays a critical role in advancing our understanding of biological systems. With the continued development of high-throughput technologies, the demand for skilled biological data scientists is only expected to increase in the coming years.
 
 In this repository I will add projects which uses biological data and create analysis pipelines for those which would primarily have a strong impression on Data Science related projects.
+
+
+## Application of Biological Data science
+One of the most important applications of biological data science is in precision medicine. Precision medicine aims to tailor medical treatments to individual patients based on their unique genetic makeup and other biological factors. This requires the analysis of large-scale biological data sets to identify genetic variants associated with disease and to develop targeted therapies.
+
+Another important application of biological data science is in synthetic biology. Synthetic biology is an interdisciplinary field that combines biology and engineering to design and build new biological systems. Biological data science plays a key role in synthetic biology by providing the computational tools and algorithms needed to design and optimize biological systems.
+
+As the field of biological data science continues to grow, there are many exciting opportunities for research and discovery. For example, researchers are using biological data science to study the human microbiome, which is the collection of microorganisms that live in and on the human body. By analyzing the microbiome, researchers hope to gain a better understanding of its role in human health and disease.
+
+In addition to its applications in research, biological data science also has many practical applications in industry. For example, it is used in the development of new drugs and in the optimization of industrial processes such as fermentation and biofuels production.
+
+Overall, biological data science is a rapidly growing field with many exciting opportunities for research and discovery. It plays a critical role in advancing our understanding of biological systems and has many practical applications in industry and medicine.
